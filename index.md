@@ -6,3 +6,5 @@
 4. [Load Balancers](load_balancers.md)
 5. [RDS](rds.md)
 6. [Route 53 and Elastic Bean stalk](route53_elastic_beanstalk.md)
+7. [S3](s3.md)
+

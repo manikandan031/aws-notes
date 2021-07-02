@@ -7,4 +7,4 @@
 5. [RDS](rds.md)
 6. [Route 53 and Elastic Bean stalk](route53_elastic_beanstalk.md)
 7. [S3](s3.md)
-
+8. [Cloud Front & Global Accelerator](cloud_front_and_global_accelerator.md)

@@ -9,3 +9,4 @@
 7. [S3](s3.md)
 8. [Cloud Front & Global Accelerator](cloud_front_and_global_accelerator.md)
 9. [Storage Advanced](storage_advanced.md)
+10. [Messaging](messaging.md)

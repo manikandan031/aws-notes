@@ -1,5 +1,7 @@
 **EC2**
 
+[back](index.md)
+
 * **Selections**
     * _AMI_ - Amazon Machine image
     * _Operating System_ - Windows, Linux, MAC
@@ -90,3 +92,5 @@
     * Like Docker image
     * Can create custom AMI out of an existing EC2 instance
     * For example, provision an ec2 instance install Apache server in it and create an AMI out of it.
+
+[back](index.md)

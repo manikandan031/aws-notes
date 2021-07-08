@@ -1,4 +1,7 @@
 **Snow Family**
+
+[back](index.md)
+
 * Used to migrate large volumes of data into AWS servers. 100s of TBs / PBs of data can be transferred. Uploading these over the network can be ineffiecient and expensive. Also used to process data at the edge and process. (Edge computing).
 * AWS will send a physical storage device to our address and we need to upload / download data from it.
 * AWS Snow cone, Snowball edge, Snowmobile - Data migration
@@ -40,3 +43,5 @@
 * To transfer files in or out of s3 using ftp protocols
 * FTP, FTPS, SFTP
 * Integrates with existing auth mechanisms
+
+[back](index.md)

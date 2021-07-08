@@ -1,4 +1,7 @@
 **ECS**
+
+[back](index.md)
+
 * Elastic container service is used to deploy docker containers in AWS.
 * Launch Types - _EC2 & Fargate_
     * **EC2** 
@@ -21,7 +24,9 @@
     * Minimum Healthy Percent - 100 , Maximim Percent - 200 - Based on these 2 parameters old tasks will be terminated and new tasks will be launched.
 * **ECR** Elastic Container Registry - private docker image registry in AWS
 * **EKS** Elastic Kubernetes Service - AWS managed Kubernetes Service    
-    
+
+[back](index.md)
+
 
     
 

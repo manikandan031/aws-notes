@@ -1,4 +1,7 @@
 **Load Balancers**
+
+[back](index.md)
+
 * **Types**
     * Class Load Balancer (Legacy)
     * Application Load Balancer (Layer 7)
@@ -52,3 +55,5 @@
         * Finds the AZ that has the highest number of instances
         * Finds the instance with the oldest launch configuration and terminates it.
     * Provides life cycle hooks in pending state and before termination state
+
+[back](index.md)

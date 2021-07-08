@@ -10,5 +10,5 @@
 8. [Cloud Front & Global Accelerator](cloud_front_and_global_accelerator.md)
 9. [Storage Advanced](storage_advanced.md)
 10. [Messaging](messaging.md)
-11 [ECS & EKS](ecs_eks.md)
-12 [Serverless](serverless.md)
+11. [ECS & EKS](ecs_eks.md)
+12. [Serverless](serverless.md)

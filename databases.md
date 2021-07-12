@@ -11,6 +11,6 @@
 7. Redshift - Managed data warehouse and analytics (OLAP). columnar storage.
 8. Glue - Managed ETL service. can be used to prepare data for analytics in red shift.
 9. Neptune - Managed Graph based database.
-10. ElasticSearch - Managed elastic search
+10. ElasticSearch - Managed elastic search 
 
 [back](index.md)

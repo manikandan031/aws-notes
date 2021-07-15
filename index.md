@@ -17,3 +17,6 @@
 15. [Security](security.md)
 16. [VPC](vpc.md)
 17. [Disaster Recovery](disaster_recovery.md)
+18. [High Performance computing](high_performance_computing.md)
+19. [Other Services](other_services.md)
+20. [White Papers](whitepapers.md)

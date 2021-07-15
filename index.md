@@ -15,3 +15,4 @@
 13. [Databases](databases.md)
 14. [IAM Advanced](iam_advanced.md)
 15. [Security](security.md)
+16. [VPC](vpc.md)
